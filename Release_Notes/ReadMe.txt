@@ -33,6 +33,7 @@
 
 - Kimi - https://forums.bistudio.com/user/828913-kimi-uy/
 - RavenDK - https://forums.bistudio.com/user/749751-ravendk/
+- Soldierman - https://forums.bistudio.com/user/766559-soldierman/
 
 
 [*]Changelog[*]

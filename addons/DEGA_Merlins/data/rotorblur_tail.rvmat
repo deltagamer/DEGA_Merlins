@@ -1,0 +1,13 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 3.94
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class air_e : AH64\data\rotorblur_tail.rvmat{
+class StageTI
+{
+	texture = "DEGA_Merlins\data\ah64_tail_rotor_blur_ti_ca.paa";
+};
+//};

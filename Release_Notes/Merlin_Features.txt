@@ -1,0 +1,11 @@
+DEGA Merlin v1.0.0.0 Features
+
+Ability to open and close side doors
+Option to open/close ramp
+4x Passenger FFV
+Co-pilot laser designator
+Pilot/Co-Pilot Cockpit FLIR MFD 
+Sling Loading
+Multifunction Camera
+FLIR Pod
+Turret Slaving

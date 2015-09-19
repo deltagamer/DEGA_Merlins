@@ -52,6 +52,7 @@ class CfgVehicles
 	{
 //		expansion = 2; // BAF
 		scope = 1;
+		scopeCurator = 0;		// 2 means available from Zeus, whereas 0 means hidden			
 		side = 1;
 		faction = BLU_F;
 		
@@ -1764,6 +1765,7 @@ class CfgVehicles
 	{
 	    author = "Deltagamer";
         scope = 2;	
+		scopeCurator = 2;		// 2 means available from Zeus, whereas 0 means hidden		
 		displayname = AW101 BAF Merlin HC3;
 		model = "\DEGA_Merlins\MerlinHC3_BAF";	
 		_generalMacro = "DEGA_Merlin_HC3_BAF";			
@@ -1783,6 +1785,7 @@ class CfgVehicles
 	{
 	    author = "Deltagamer";
         scope = 2;	
+		scopeCurator = 2;		// 2 means available from Zeus, whereas 0 means hidden			
 		displayname = AW101 BAF Merlin HC3A;
 		model = "\DEGA_Merlins\MerlinHC3A_BAF";	
 		_generalMacro = "DEGA_Merlin_HC3A_BAF";			

@@ -15,6 +15,7 @@ Features
 * FLIR Pod
 * Turret Slaving
 * Passenger count increased to 24
+* Collision and landing lights
 
 Whats Planned
 =========

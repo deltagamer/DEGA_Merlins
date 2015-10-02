@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class DEGA_Merlins_Patches
+	class DEGA_Merlins
 	{
 		units[] = 
 		{

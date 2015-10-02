@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////
-////////////////////DEGA Merlin v1.0.0.0////////////////////                                
+////////////////////DEGA Merlin v1.1.0.0////////////////////                                
 ////////////////////Addon by deltagamer/////////////////////                               
 // http://forums.bistudio.com/member.php?94697-deltagamer // 
 ////////////////////////////////////////////////////////////
@@ -14,7 +14,7 @@
 [*]ArmaHolic Link[*]
 
 
-- 
+- http://www.armaholic.com/page.php?id=29544
 
 
 [*]PlayWithSix Link[*]
@@ -38,6 +38,10 @@
 
 [*]Changelog[*]
 
+== v1.1.0.0 ==
+
+- Added Collision Lights
+- Added Landing Lights
 
 == v1.0.0.0 ==
 
